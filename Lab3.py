@@ -1,3 +1,4 @@
+#Нещерет Максим КІ-1 (1 варіант)
 def print_large_digit(num):
     #цифри з символів "#"
     large_digits = {
